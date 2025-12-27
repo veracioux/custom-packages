@@ -10,3 +10,6 @@
 [submodule "svg-term-cli"]
 	path = sys/svg-term-cli
 	url = https://aur.archlinux.org/svg-term-cli.git
+[submodule "alacritty-mcp"]
+	path = sys/alacritty-mcp
+  url = https://aur.archlinux.org/alacritty-mcp.git
