@@ -1,5 +1,5 @@
 [submodule "tuterm"]
-	path = tuterm
+	path = sys/tuterm
 	url = https://aur.archlinux.org/tuterm.git
 [submodule "tuterm-git"]
 	path = tuterm-git
