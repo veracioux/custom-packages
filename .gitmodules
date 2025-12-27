@@ -5,7 +5,7 @@
 	path = tuterm-git
 	url = https://aur.archlinux.org/tuterm-git.git
 [submodule "shdocker"]
-	path = shdocker
+	path = sys/shdocker
 	url = https://aur.archlinux.org/shdocker.git
 [submodule "svg-term-cli"]
 	path = sys/svg-term-cli
