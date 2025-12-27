@@ -8,5 +8,5 @@
 	path = shdocker
 	url = https://aur.archlinux.org/shdocker.git
 [submodule "svg-term-cli"]
-	path = svg-term-cli
+	path = sys/svg-term-cli
 	url = https://aur.archlinux.org/svg-term-cli.git
