@@ -18,10 +18,8 @@ backup=()
 options=()
 source=("git+https://git.suckless.org/$_pkgname#tag=$pkgver"
         "https://tools.suckless.org/$_pkgname/patches/line-height/$_pkgname-lineheight-$pkgver.diff")
-sha256sums=(
-SKIP
-c563509830902b996c734ef1fd4d969c15adbc3d3b8b2626e07d58c7bc584b49
-)
+sha256sums=('845fafcd5bf01311eee8cbb6199042fb2e0303a5c211a16f1c6497e0cedc3b0c'
+            'c563509830902b996c734ef1fd4d969c15adbc3d3b8b2626e07d58c7bc584b49')
 
 prepare() {
 	cd "$srcdir/$_pkgname"
